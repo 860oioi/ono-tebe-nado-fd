@@ -328,7 +328,7 @@ main {
   font-size: 20px;
   flex-direction: column;
   
-  gap:25px;
+  gap:32px;
 }
 
 .about_text p {
